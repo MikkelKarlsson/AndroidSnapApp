@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811754641554",
+    "project_id": "androidsnapapp",
+    "storage_bucket": "androidsnapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811754641554:android:c76bb30d11bef2c6c16e4b",
+        "android_client_info": {
+          "package_name": "com.example.mysnapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811754641554-8g9gqc2rulhimqugkreghjuvoqkp31ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtvN-sPsijl-nWbEDYVXIeIAt9SEMw18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811754641554-8g9gqc2rulhimqugkreghjuvoqkp31ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
